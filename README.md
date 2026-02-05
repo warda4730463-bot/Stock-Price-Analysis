@@ -41,7 +41,7 @@ The goal of this project is to understand and visualize the historical stock pri
 
 ## Moving Average Graph
 
-![Moving Average Graph](ma_graph.jpg)
+![Moving Average Graph](ma_graph.png)
 
 
 ## Author
