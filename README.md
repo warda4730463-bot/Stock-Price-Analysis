@@ -13,6 +13,10 @@ The goal of this project is to understand and visualize the historical stock pri
 - Calculate moving averages (50-day and 200-day)
 - Perform basic statistical analysis of stock prices
 
+## Closing Price Graph
+
+![Closing Price Graph](closing_price.png)
+
 ## Tools & Libraries Used
 
 - Python
