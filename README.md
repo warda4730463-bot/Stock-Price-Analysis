@@ -17,6 +17,10 @@ The goal of this project is to understand and visualize the historical stock pri
 
 ![Closing Price Graph](closing_price.png)
 
+## Moving Average Graph
+
+![Moving Average Graph](ma_graph.png)
+
 ## Tools & Libraries Used
 
 - Python
@@ -35,6 +39,16 @@ The goal of this project is to understand and visualize the historical stock pri
 
 - Closing Price Graph
 - Moving Average Graph
+
+
+## Closing Price Graph
+
+![Closing Price Graph](closing_price.png)
+
+## Moving Average Graph
+
+![Moving Average Graph](ma_graph.png)
+
 
 ## Author
 
