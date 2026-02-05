@@ -13,7 +13,13 @@ The goal of this project is to understand and visualize the historical stock pri
 - Calculate moving averages (50-day and 200-day)
 - Perform basic statistical analysis of stock prices
 
+## Closing Price Graph
 
+![Closing Price Graph](closing_price.png)
+
+## Moving Average Graph
+
+![Moving Average Graph](ma_graph.png)
 
 ## Tools & Libraries Used
 
@@ -34,24 +40,17 @@ The goal of this project is to understand and visualize the historical stock pri
 - Closing Price Graph
 - Moving Average Graph
 
+
 ## Closing Price Graph
 
 ![Closing Price Graph](closing_price.png)
 
 ## Moving Average Graph
 
-![Moving Average Graph](ma_graph.png)
-## Closing Price Graph
-
-![Closing Price Graph](closing_price.png)
-
-## Moving Average Graph
-
-![Moving Average Graph](ma_graph.png)
+![Moving Average Graph](ma_graph.jpg)
 
 
 ## Author
 
 - [WARDA LATIF]
-
 
